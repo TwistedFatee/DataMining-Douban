@@ -1,0 +1,5 @@
+Feature selection:
+1. Filter: VarianceThreshold ---------> sklearn.feature_selection.VarianceThreshold
+VarianceThreshold(threshold = 0.0) #删除所有低方差特征
+2. Embedded: Regular Expression, Decision Tree
+3. Wrapper
